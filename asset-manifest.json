@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Form-Validation/static/css/main.4b1785c1.css",
+    "main.js": "/Form-Validation/static/js/main.6172f8f5.js",
+    "static/js/453.9a7010f2.chunk.js": "/Form-Validation/static/js/453.9a7010f2.chunk.js",
+    "index.html": "/Form-Validation/index.html",
+    "main.4b1785c1.css.map": "/Form-Validation/static/css/main.4b1785c1.css.map",
+    "main.6172f8f5.js.map": "/Form-Validation/static/js/main.6172f8f5.js.map",
+    "453.9a7010f2.chunk.js.map": "/Form-Validation/static/js/453.9a7010f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1785c1.css",
+    "static/js/main.6172f8f5.js"
+  ]
+}
